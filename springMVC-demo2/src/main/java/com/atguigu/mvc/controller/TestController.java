@@ -9,4 +9,9 @@ public class TestController {
     public String index(){
         return "index";
     }
+
+    @RequestMapping("/param")
+    public String testParam(){
+        return "test_param";
+    }
 }
