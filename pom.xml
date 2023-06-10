@@ -14,6 +14,7 @@
         <module>springMVC-demo3</module>
         <module>springMVC-jsp</module>
         <module>springMVC-jsp</module>
+        <module>springMVC-rest</module>
     </modules>
 
     <dependencies>

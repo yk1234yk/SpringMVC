@@ -6,6 +6,7 @@
     <file type="web" url="file://$PROJECT_DIR$/springMVC-demo2" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC-demo3" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC-jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/springMVC-rest" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
